@@ -1,0 +1,14 @@
+#armo una lista de los archivos o carpetas que quiero ignorar, para subir a gitHub
+
+#ignorar archivos
+css/estilos
+
+#ignorar grupos de archivos por extension
+.gif
+.jpg
+
+#ignorar carpetas
+css
+
+#ignorar subcarpetas
+css/subcarpetas
